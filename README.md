@@ -1,44 +1,110 @@
-# 👋 Welcome to My GitHub Profile!
+<!-- Animated Intro -->
 
-Hi there! I'm **Jaspreet Singh** — a passionate **Computer Science student, developer, and AI enthusiast**.  
-I enjoy building scalable applications, exploring AI technologies, and solving real-world problems using software.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Jaspreet+Singh;Computer+Science+Student;AI+Developer;Full+Stack+Enthusiast;Building+Real+World+Tech+Projects" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Jaspreet Singh
 
-### 🧠 Programming & Core Concepts
+### 💻 Computer Science Engineer | AI Developer | Builder
+
+Passionate about building **AI-powered systems, scalable platforms, and real-world tech solutions**.
+I enjoy exploring **machine learning, full-stack development, and intelligent automation**.
+
+---
+
+# 👀 Profile Views
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=jaspreetsingh21&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
 ### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
 </p>
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+### 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### ☁️ Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on: **Java & AI Projects**  
-- 🌱 I’m currently learning: **Data Structures & System Design**  
-- 👨‍💻 I’m a **CSE Student at Chitkara University**  
-- ⚡ Fun fact: I love building **AI-powered applications**
+# 🚀 Featured Projects
+
+### 🧠 Project Drishti
+
+AI-powered disaster monitoring platform that analyzes **social media, geotagged reports, and official datasets** to detect natural disasters in real time.
+
+### 📈 AI Crypto Trading Platform
+
+Machine learning based trading platform capable of analyzing market patterns and predicting trading opportunities.
+
+### 🌍 Advanced Travel Blog Website
+
+Modern travel platform with **3D elements, animations, and dynamic UI**.
+
+### 💻 Coding Practice Platform
+
+Full-stack platform supporting **real-time coding challenges and scalable backend architecture**.
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaspreetsingh21&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreetsingh21&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jaspreetsingh21&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I love building **AI systems that solve real world problems** and experimenting with **cutting-edge technologies**.
