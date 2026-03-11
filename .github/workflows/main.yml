@@ -1,4 +1,4 @@
-name: generate snake
+name: generate-snake
 
 on:
   schedule:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: jaspreetsingh21
@@ -21,9 +21,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          commit_message: "Generate contribution snake"
-          branch: output
-          file_pattern: dist/*.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
