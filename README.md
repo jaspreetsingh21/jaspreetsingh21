@@ -103,6 +103,12 @@ Full-stack platform supporting **real-time coding challenges and scalable backen
 </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaspreetsingh21/jaspreetsingh21/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 # ⚡ Fun Fact
